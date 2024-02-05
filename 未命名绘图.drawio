@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T10:41:14.084Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" version="23.1.1" etag="l28PDayRcgZh3ywOpWjB" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T10:41:37.742Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="oDI-CSI0hMvbyJunV2In" version="23.1.1" type="github">
   <diagram name="第 1 页" id="2n1i20ZArfhq2VycgCbf">
-    <mxGraphModel>
+    <mxGraphModel dx="1173" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fYQfAZ1tScz2ltYR4kFC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;dashed=1;fillColor=#ffcc99;strokeColor=#000000;fontStyle=1;fontSize=15;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="440" y="129" width="280" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="fYQfAZ1tScz2ltYR4kFC-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#000000;fontFamily=Times New Roman;dashed=1;fontStyle=1;fontSize=15;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="95" y="348" width="265" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="fYQfAZ1tScz2ltYR4kFC-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Times New Roman;dashed=1;fontStyle=1;fontSize=15;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="98" y="142" width="272" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="fYQfAZ1tScz2ltYR4kFC-4" value="Construct Water Level Demand Constraint Function" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="115" y="152" width="235" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fYQfAZ1tScz2ltYR4kFC-5" value="NSGA-II:Calculate Optimal &#xa;Water Level" style="rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="115" y="212" width="235" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fYQfAZ1tScz2ltYR4kFC-6" value="PID Control:Quantify Water Level Errors" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="115" y="363" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fYQfAZ1tScz2ltYR4kFC-7" value="Construct Water Level Update Function" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="115" y="483" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fYQfAZ1tScz2ltYR4kFC-8" value="Ziegler-Nichols:Optimized PID Parameters" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="115" y="423" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fYQfAZ1tScz2ltYR4kFC-9" value="MAE:Evaluation Of Control Algorithms" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="485" y="460" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fYQfAZ1tScz2ltYR4kFC-10" value="Linear Regression：Environmental Factor Analysis" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#eeeeee;strokeColor=#C3ABD0;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="460" y="142" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fYQfAZ1tScz2ltYR4kFC-11" value="AHP-EWM:Lake Ontario Stakeholder Needs Analysis" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffcccc;strokeColor=#C3ABD0;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="460" y="212" width="240" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
